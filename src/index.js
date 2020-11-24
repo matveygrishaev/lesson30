@@ -18,7 +18,7 @@ import sendForm from './modules/sendForm';
 
 maskPhone(".form-phone", "+7(___)_______");
 
-countTimer("20 november 2020");
+countTimer("30 november 2020");
 
 toggleMenu();
 
